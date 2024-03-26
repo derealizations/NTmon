@@ -26,4 +26,4 @@ pip install -r requirements.txt
 ```
 
 ### Questions?
-[Join our Discord server](https://discord.gg/28mFzDeG6U){: .btn .btn-blue }
+[Join our Discord server](https://discord.gg/28mFzDeG6U)
