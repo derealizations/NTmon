@@ -1,9 +1,8 @@
 # NTmon
 [![GitHub stars](https://img.shields.io/github/stars/derealizations/NTmon.svg)](https://github.com/derealizations/NTmon/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/derealizations/NTmon.svg)](https://github.com/derealizations/NTmon/network/members)
 
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/derealizations/NTmon.svg)](https://github.com/derealizations/NTmon/pulls)
-
-[![GitHub forks](https://img.shields.io/github/forks/derealizations/NTmon.svg)](https://github.com/derealizations/NTmon/network/members)
 ## A network traffic monitor made in python3 for linux
 ![Banner](banner1.jpg)
 
