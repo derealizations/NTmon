@@ -25,6 +25,9 @@ cd NTmon/
 ```bash
 pip install -r requirements.txt
 ```
+```bash
+python3 NTmon.py
+```
 
 ### Questions?
 [Join our Discord server](https://discord.gg/28mFzDeG6U)
