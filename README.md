@@ -1,9 +1,11 @@
 # NTmon
+[![GitHub stars](https://img.shields.io/github/stars/derealizations/NTmon.svg)](https://github.com/derealizations/NTmon/stargazers)
+
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/derealizations/NTmon.svg)](https://github.com/derealizations/NTmon/pulls)
+
+[![GitHub forks](https://img.shields.io/github/forks/derealizations/NTmon.svg)](https://github.com/derealizations/NTmon/network/members)
 ## A network traffic monitor made in python3 for linux
 ![Banner](banner1.jpg)
-[![GitHub stars](https://img.shields.io/github/stars/derealizations/NTmon.svg)](https://github.com/derealizations/NTmon/stargazers)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/derealizations/NTmon.svg)](https://github.com/derealizations/NTmon/pulls)
-[![GitHub forks](https://img.shields.io/github/forks/derealizations/NTmon.svg)](https://github.com/derealizations/NTmon/network/members)
 
 ### Make sure
 #### That you have these installed on your linux machine
