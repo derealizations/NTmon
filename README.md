@@ -1,2 +1,3 @@
 # NTmon
-A network traffic monitor made in python3 for windows and linux
+A network traffic monitor made in python3 for linux
+![Banner](banner.jpg)
